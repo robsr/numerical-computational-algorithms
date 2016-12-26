@@ -1,0 +1,38 @@
+CA01 : Ques1: 	Bisection Method
+       		False Position Method
+       		Modified False Position	
+       		Secant Method
+       		Newton Rhapson
+	Ques2:  Muller Method
+		Bairstow ---"CAN EVEN FIND IMAGINARY ROOTS"
+----------------------------------------------------------------------------
+CA02:  Ques1:	Gauss Elimination(without pivoting)
+		Gauss Elimination(with pivoting)
+		Gauss Elimination(with pivoting and scaling)
+		LU decomposition using GE(without pivoting)
+		LU decomposition using GE(with pivoting)
+		LU decomposition using Crout Method(without pivoting)
+		Cholesky decomposition(for symmetric positive definite matrix)
+-------------------------------------------------------------------------------
+CA03:	Ques1:	Finding eigen values of matrices using-
+		Direct power method
+		Inverse power method
+		Shifted-power method
+		QR method
+--------------------------------------------------------------------------------
+CA04:	Q1:     Linear Regression
+	Q2:	Linear Spline
+		Quadratic Spline
+		Natural Spline
+		Not-a-knot Spline
+		Periodic Spline
+		Clamped Spline
+------------------------------------------------------------------------------
+CA05:   Q1:	Definite integration using
+		Adaptive Quadrature with Simpson’s 1/3rd rule
+	Q2:	ODE IVP problems using
+		Euler’s method
+		Midpoint method
+		4th order RK method
+		Runge-Kutta Fehlberg (RK45) method
+--------------------------------------------------------------------------
