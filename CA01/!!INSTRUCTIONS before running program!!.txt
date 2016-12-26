@@ -1,0 +1,11 @@
+1.Run Ques 1 from Ques1-150591.m
+2.Run Ques 2 from Ques2-150591.m
+3.Open pdf files for all the analysis of plots,convergence,order etc.
+4.Use '.' operator for inputting functions
+5.In Bairstow Method input array of coefficients of polynomial in increasing order
+	example: 1*x.^3+5*x.^2-1
+				then enter in input : [-1 0 5 1]
+														
+	
+
+									ROBIN SINGH 150591 
