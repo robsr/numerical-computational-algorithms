@@ -1,0 +1,7 @@
+Interpolated values y* at give x*
+
+Linear Spline
+-0.800000  0.060589
+-0.200000  0.126856
+0.200000  0.655160
+0.800000  0.078260

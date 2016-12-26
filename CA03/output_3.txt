@@ -1,0 +1,12 @@
+Shifted Power Method
+
+Eigen Value
+NaN
+
+Eigen Vector
+NaN
+NaN
+NaN
+
+Iterations
+2

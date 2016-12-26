@@ -1,0 +1,7 @@
+Interpolated values y* at give x*
+
+Periodic Spline
+-0.800000  0.004261
+-0.200000  0.765769
+0.200000  0.765769
+0.800000  0.004261

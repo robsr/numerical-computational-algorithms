@@ -1,0 +1,7 @@
+Interpolated values y* at give x*
+
+Quadratic Spline
+-0.800000  0.106736
+-0.200000  0.443636
+0.200000  1.280492
+0.800000  -0.730120

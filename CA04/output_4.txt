@@ -1,0 +1,7 @@
+Interpolated values y* at give x*
+
+Not-a-knot Spline
+-0.800000  -0.252006
+-0.200000  0.802378
+0.200000  0.802378
+0.800000  -0.252006
